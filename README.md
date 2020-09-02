@@ -1,6 +1,6 @@
 # Bilkent-Program-Scheduler-Source-Code
 
-Bilkent Program Scheduler for scheduling university lectures / organizing academic programs by Can Gürsu. Source Code Repository
+Bilkent Program Scheduler for scheduling university lectures / organizing academic programs by Can Gürsu. Source Code and Release Repository
 
 Download/Setup: https://github.com/Re4GD/Bilkent-Program-Scheduler-Releases
 
